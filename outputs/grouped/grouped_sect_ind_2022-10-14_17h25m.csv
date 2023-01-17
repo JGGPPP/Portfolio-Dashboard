@@ -1,0 +1,33 @@
+sector,industry,ticker,current_value,cml_cost,gain_loss,weight
+Technology,Consumer Electronics,1,5017.78,2735.88,0.0,10.4
+Technology,Software - Application,6,4039.12,7977.7,32.34,8.37
+Technology,Semiconductors,3,3885.08,4369.75,0.0,8.05
+Technology,Software - Infrastructure,2,3002.76,2880.0,0.0,6.22
+Energy,Oil & Gas Integrated,1,2904.98,1607.32,0.0,6.02
+Consumer Defensive,Tobacco,1,2276.75,2113.6,0.0,4.72
+Consumer Cyclical,Auto Manufacturers,2,2130.61,3005.7,3082.11,4.41
+Communication Services,Entertainment,2,1741.67,2700.88,305.03,3.61
+Financial,Credit Services,2,1611.44,1785.78,0.0,3.34
+Real Estate,REIT - Diversified,1,1471.81,1252.65,0.0,3.05
+Basic Materials,Other Industrial Metals & Mining,1,1471.8,931.3,0.0,3.05
+Healthcare,Drug Manufacturers - General,1,1379.45,1090.32,0.0,2.86
+Industrials,Specialty Industrial Machinery,1,1357.08,2171.4,0.0,2.81
+Consumer Cyclical,Restaurants,1,1339.14,1075.5,0.0,2.77
+Communication Services,Internet Content & Information,2,1320.28,3540.66,538.57,2.74
+Consumer Defensive,Discount Stores,1,1304.3,1242.34,0.0,2.7
+Consumer Cyclical,Resorts & Casinos,1,1235.2,924.8,0.0,2.56
+Financial,Banks - Diversified,1,1232.55,1072.81,0.0,2.55
+Technology,Information Technology Services,1,1157.86,1193.09,0.0,2.4
+Industrials,Integrated Freight & Logistics,1,1124.57,1639.22,0.0,2.33
+Healthcare,Healthcare Plans,1,1072.56,656.28,0.0,2.22
+Industrials,Aerospace & Defense,1,1033.35,1644.36,0.0,2.14
+Industrials,Electrical Equipment & Parts,1,998.53,921.47,2122.52,2.07
+Communication Services,Broadcasting,1,808.0,454.0,412.5,1.67
+Technology,Solar,1,773.82,2284.32,2456.16,1.6
+Healthcare,Biotechnology,1,668.95,335.8,695.85,1.39
+Technology,Communication Equipment,1,480.3,469.44,0.0,1.0
+Consumer Cyclical,Internet Retail,2,457.08,4969.11,610.85,0.95
+Consumer Cyclical,Gambling,1,346.77,1080.3,0.0,0.72
+Industrials,Specialty Business Services,1,321.0,973.0,0.0,0.67
+Consumer Cyclical,Leisure,1,152.33,938.1,39.25,0.32
+Industrials,Farm & Heavy Construction Machinery,1,148.99,1697.04,-2.07,0.31

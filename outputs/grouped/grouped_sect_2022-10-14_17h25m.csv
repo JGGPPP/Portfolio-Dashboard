@@ -1,0 +1,11 @@
+sector,ticker,current_value,cml_cost,gain_loss,weight
+Technology,15,18356.72,21910.18,2488.5,38.03
+Consumer Cyclical,8,5661.14,11993.51,3732.21,11.73
+Industrials,6,4983.51,9046.49,2120.45,10.33
+Communication Services,5,3869.95,6695.54,1256.1,8.02
+Consumer Defensive,2,3581.05,3355.94,0.0,7.42
+Healthcare,3,3120.96,2082.4,695.85,6.47
+Energy,1,2904.98,1607.32,0.0,6.02
+Financial,3,2843.99,2858.59,0.0,5.89
+Real Estate,1,1471.81,1252.65,0.0,3.05
+Basic Materials,1,1471.8,931.3,0.0,3.05
